@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/webpack-encore-bundle": "^2.0",
+        "symfony/dotenv": "^6.3"
+    }
+}
