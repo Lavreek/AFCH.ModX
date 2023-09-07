@@ -1,5 +1,20 @@
 body {
-
+    min-width: 375px;
 }
 
 @import "~bootstrap/scss/bootstrap";
+
+
+.modal {
+    .modal-body {
+        .container {
+            .col {
+                .card {
+                    .card-img {
+                        min-height: 225px;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -121,3 +121,10 @@ if (!defined('MODX_LOG_LEVEL_FATAL')) {
     define('MODX_LOG_LEVEL_INFO', 3);
     define('MODX_LOG_LEVEL_DEBUG', 4);
 }
+
+/**
+ * Const's
+ */
+
+/** Resource preview image */
+const tv_preview = 18;
