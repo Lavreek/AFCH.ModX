@@ -4,6 +4,16 @@ body {
 
 @import "~bootstrap/scss/bootstrap";
 
+footer {
+    .col {
+        li {
+            a {
+                padding-left: 0;
+                padding-right: 0;
+            }
+        }
+    }
+}
 
 .modal {
     .modal-body {
